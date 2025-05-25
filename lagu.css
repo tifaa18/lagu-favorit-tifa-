@@ -1,0 +1,59 @@
+#container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 18px;
+    color: white;
+    background-image: linear-gradient(118deg, rgb(247,202,201), rgb(247,202,201), rgb(247,202,201), rgb(145,168,209), rgb(145,168,209), rgb(145,168,209));
+}
+
+.lagu{
+    border-radius: 10px;
+    border: solid 3px white;
+    width: 30%;
+    padding: 10px;
+    justify-content: center;
+    margin: 5px;
+}
+
+.lagu h2{
+    margin:0;
+    justify-self: center;
+    padding-top: 10px;
+}
+
+.lagu > img{
+    display: flex;
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 10px;
+}
+
+.by {
+    display: flex;
+    justify-content: center;
+}
+
+.by small{
+    text-align: center;
+    padding-top: 5px;
+}
+
+.bawah{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.kanan{
+    display: flex;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.kiri{
+    display: flex;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
