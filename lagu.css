@@ -5,16 +5,17 @@
     justify-content: center;
     font-size: 18px;
     color: white;
-    background-image: linear-gradient(118deg, rgb(247,202,201), rgb(247,202,201), rgb(247,202,201), rgb(145,168,209), rgb(145,168,209), rgb(145,168,209));
+    background-image: radial-gradient(circle, #e3dcea, #ffffff);
 }
 
 .lagu{
     border-radius: 10px;
-    border: solid 3px white;
-    width: 30%;
+    border: solid 1px white;
+    width: 28%;
     padding: 10px;
     justify-content: center;
-    margin: 5px;
+    margin: 10px;
+    background-image: linear-gradient(to bottom, rgb(247,202,201), rgb(145,168,209));
 }
 
 .lagu h2{
@@ -25,7 +26,7 @@
 
 .lagu > img{
     display: flex;
-    width: 50%;
+    width: 60%;
     margin: 30px auto;
     border-radius: 10px;
 }
