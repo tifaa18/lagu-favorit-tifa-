@@ -16,7 +16,7 @@ var lagu = [
     ['HIT', 'Seventeen', '1,7M', '93M', 'hit.jpg'],
     ['Fear', 'Seventeen', '1,3M', '62M', 'fear.jpg'],
     ['Snap Shoot', 'Seventeen', '847K', '31M', 'fear.jpg'],
-    ['Left & Right', 'Seventeen', '2,7M', '129M', 'l&r.jpg'],
+    ['Left & Right', 'Seventeen', '2,7M', '129M', 'lr.jpg'],
 ];
 
 var element = '';
