@@ -29,7 +29,7 @@ for (var i = 0; i < lagu.length; i++) {
                     <i>Oleh ${lagu[i][1]}</i>
                 </small>
             </div>
-            <img src="img/${lagu[i][4]}" alt="" srcset="">
+            <img src="${lagu[i][4]}" alt="" srcset="">
             <div class="bawah">
                 <div class="kanan">${lagu[i][2]}</div>
                 <div class="kiri">${lagu[i][3]}</div>
