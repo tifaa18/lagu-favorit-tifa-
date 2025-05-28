@@ -1,7 +1,7 @@
 var lagu = [
     ['Adore U', 'Seventeen', '822K', '45M', 'au.jpg'],
     ['Mansae', 'Seventeen', '1M', '69M', 'mansae.jpg'],
-    ['Pretty U', 'Seventeen', '583K', '29M', 'pu.jpg'],
+    ['Pretty U', 'Seventeen', '583K', '29M', 'pretty_u.jpg'],
     ['Very Nice', 'Seventeen', '1,8M', '147M', 'vn.jpg' ],
     ['HIGHLIGHT', 'Seventeen', '325K', '10M', 'highlight.jpg' ],
     ["Don't Wanna Cry", 'Seventeen', '3,8M', '289M', 'dwc.jpg' ],
